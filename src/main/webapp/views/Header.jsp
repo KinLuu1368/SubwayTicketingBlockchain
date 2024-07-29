@@ -67,7 +67,7 @@
                 <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="/Assignment/category/2"><span class="bi bi-ticket"></span> Mua vé</a>
+                            <a class="nav-link" href="/muave"><span class="bi bi-ticket"></span> Mua vé</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/Assignment/category/2"><span class="bi bi-ticket-fill"></span> Bán vé</a>
